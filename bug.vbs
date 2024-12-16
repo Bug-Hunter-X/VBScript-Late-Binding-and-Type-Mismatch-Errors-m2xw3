@@ -1,0 +1,1 @@
+Late Binding and Type Mismatches: VBScript's late binding can lead to runtime errors if an object's method or property doesn't exist.  Type mismatches are common when working with variants without explicit type checking. For example, trying to concatenate a number and a string without using the CStr or CInt functions can result in an error.
